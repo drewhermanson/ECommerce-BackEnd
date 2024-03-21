@@ -31,33 +31,33 @@ The following video demonstrations should an exmaple user would use each route o
 A GET request for products 
 <br></br>
 
-![product example](assets/product-get.gif)
+![product example](Assets/product-get.gif)
 
 A GET request for tags 
 <br></br>
 
-![tag example](assets/tags-get.gif)
+![tag example](Assets/tags-get.gif)
 
 
 A GET request for categories 
 <br></br>
 
-![category example](assets/cat-get.gif)
+![category example](Assets/cat-get.gif)
 
 All these endpoints as listed above can do a GET request for a specific ID
 <br></br>
 
-![get id](assets/cat-get-id.gif)
+![get id](Assets/cat-get-id.gif)
 
 As well as do an update request based on what properties of the product you want to update
 <br></br>
 
-![update](assets/cat-put.gif)
+![update](Assets/cat-put.gif)
 
 And finally all routes can delete an entry using the entry's id
 <br></br>
 
-![category example](assets/cat-del.gif)
+![category example](Assets/cat-del.gif)
 
 
 
