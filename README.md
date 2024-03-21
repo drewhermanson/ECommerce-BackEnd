@@ -27,12 +27,39 @@ Every end point is capable of performing C.R.U.D. operations. Sending a get requ
 
 The following video demonstrations should an exmaple user would use each route of the database.
 
-![category example](assets/category-example.gif)
-![product example](assets/product-example.gif)
-![tag example](assets/tags-example.gif)
 
-
+A GET request for products 
 <br></br>
+
+![product example](assets/product-get.gif)
+
+A GET request for tags 
+<br></br>
+
+![tag example](assets/tags-get.gif)
+
+
+A GET request for categories 
+<br></br>
+
+![category example](assets/cat-get.gif)
+
+All these endpoints as listed above can do a GET request for a specific ID
+<br></br>
+
+![get id](assets/cat-get-id.gif)
+
+As well as do an update request based on what properties of the product you want to update
+<br></br>
+
+![update](assets/cat-put.gif)
+
+And finally all routes can delete an entry using the entry's id
+<br></br>
+
+![category example](assets/cat-del.gif)
+
+
 
 ## License
 This project is licensed under the MIT license.
